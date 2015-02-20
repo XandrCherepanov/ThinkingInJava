@@ -22,7 +22,7 @@ in **DataOnly** are assigned to and printed in **main( )**. **Answer: DataOnlyWi
 **Exercise 6: (2)** Write a program that includes and calls
 the **storage( )** method defined as a code fragment in this chapter. **Answer: StringStorage.java**
 
-Exercise 7: (1) Turn the Incrementable code fragments into a working program.
+**Exercise 7: (1)** Turn the **Incrementable** code fragments into a working program.
 
 Exercise 8: (3) Write a program that demonstrates that, no matter how many objects you create of a particular class,
 there is only one instance of a particular static field in that class.
