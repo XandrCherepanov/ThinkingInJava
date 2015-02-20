@@ -11,7 +11,8 @@ Compile the program with **javac** and run it using **java**.
 If you are using a different development environment than the JDK,
 learn how to compile and run programs in that environment. **Answer: HelloWorld.java**
 
-Exercise 3: (1) Find the code fragments involving ATypeName and turn them into a program that compiles and runs.
+**Exercise 3: (1)** Find the code fragments involving ATypeName and turn them into a program that compiles and runs.
+**Answer: ATypeNameTest.java**
 
 Exercise 4: (1) Turn the DataOnly code fragments into a program that compiles and runs.
 
