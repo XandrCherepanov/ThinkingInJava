@@ -10,20 +10,24 @@ You need only a single method in your class (the “main” one that gets execut
 Remember to make it **static** and to include the argument list, even though you don’t use the argument list.
 Compile the program with **javac** and run it using **java**.
 If you are using a different development environment than the JDK,
-learn how to compile and run programs in that environment. **Answer: HelloWorld.java**
+learn how to compile and run programs in that environment. **Answer: [HelloWorld.java](src/HelloWorld.java)**
 
 **Exercise 3: (1)** Find the code fragments involving **ATypeName** and turn them into a program that compiles and runs.
-**Answer: ATypeNameTest.java**
+**Answer: [ATypeNameTest.java](src/ATypeNameTest.java)**
 
-**Exercise 4: (1)** Turn the **DataOnly** code fragments into a program that compiles and runs. **Answer: DataOnlyTest.java**
+**Exercise 4: (1)** Turn the **DataOnly** code fragments into a program that compiles and runs.
+**Answer: [DataOnly.java](src/DataOnly.java), [DataOnlyTest.java](src/DataOnlyTest.java)**
 
 **Exercise 5: (1)** Modify the previous exercise so that the values of the data
-in **DataOnly** are assigned to and printed in **main( )**. **Answer: DataOnlyWithAssign.java**
+in **DataOnly** are assigned to and printed in **main( )**.
+**Answer: [DataOnly.java](src/DataOnly.java), [DataOnlyWithAssign.java](src/DataOnlyWithAssign.java)**
 
 **Exercise 6: (2)** Write a program that includes and calls
-the **storage( )** method defined as a code fragment in this chapter. **Answer: StringStorage.java**
+the **storage( )** method defined as a code fragment in this chapter.
+**Answer: [StringStorage.java](src/StringStorage.java)**
 
 **Exercise 7: (1)** Turn the **Incrementable** code fragments into a working program.
+**Answer: [IncrementableTest.java](src/IncrementableTest.java)**
 
 Exercise 8: (3) Write a program that demonstrates that, no matter how many objects you create of a particular class,
 there is only one instance of a particular static field in that class.
