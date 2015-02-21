@@ -1,7 +1,8 @@
 # Everything is an Object
 
 **Exercise 1: (2)** Create a class containing an **int** and a **char** that are not initialized,
-and print their values to verify that Java performs default initialization. **Answer: InitializationTest.java**
+and print their values to verify that Java performs default initialization.
+**Answer: [InitializationTest.java](src/InitializationTest.java)**
 
 **Exercise 2: (1)** Following the **HelloDate.java** example in this chapter,
 create a “hello, world” program that simply displays that statement.
