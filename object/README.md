@@ -37,8 +37,9 @@ there is only one instance of a particular **static** field in that class.
 that autoboxing works for all the primitive types and their wrappers.
 **Answer: [Autoboxing.java](src/Autoboxing.java)**
 
-Exercise 10: (2) Write a program that prints three arguments taken from the command line.
-To do this, you’ll need to index into the command-line array of Strings.
+**Exercise 10: (2)** Write a program that prints three arguments taken from the command line.
+To do this, you’ll need to index into the command-line array of **String**s.
+**Answer: [CommandLineArgs.java](src/CommandLineArgs.java)**
 
 Exercise 11: (1) Turn the AllTheColorsOfTheRainbow example into a program that compiles and runs.
 
