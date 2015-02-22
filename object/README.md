@@ -41,7 +41,7 @@ that autoboxing works for all the primitive types and their wrappers.
 To do this, you’ll need to index into the command-line array of **String**s.
 **Answer: [CommandLineArgs.java](src/CommandLineArgs.java)**
 
-Exercise 11: (1) Turn the AllTheColorsOfTheRainbow example into a program that compiles and runs.
+**Exercise 11: (1)** Turn the **AllTheColorsOfTheRainbow** example into a program that compiles and runs.
 
 Exercise 12: (2) Find the code for the second version of HelloDate.java,
 which is the simple comment documentation example.
