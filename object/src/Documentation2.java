@@ -8,7 +8,7 @@
  * <pre>
  * System.out.println(new Date());
  * </pre>
- * <p/>
+ *
  * <ul>
  * <li>Item 1</li>
  * <li>Item 2</li>

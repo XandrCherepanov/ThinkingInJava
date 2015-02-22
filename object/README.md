@@ -63,6 +63,7 @@ Verify the resulting documentation with your Web browser.
 Extract this comment documentation into an HTML file using **Javadoc** and view it with your Web browser.
 **Answer: [HelloWorldDocs.java](src/HelloWorldDocs.java)**
 
-Exercise 16: (1) In the Initialization & Cleanup chapter, locate the Overloading.java example
-and add Javadoc documentation. Extract this comment documentation into an HTML file using Javadoc
+**Exercise 16: (1)** In the *Initialization & Cleanup* chapter, locate the **Overloading.java** example
+and add Javadoc documentation. Extract this comment documentation into an HTML file using **Javadoc**
 and view it with your Web browser.
+**Answer: [Overloading.java](src/Overloading.java)**
