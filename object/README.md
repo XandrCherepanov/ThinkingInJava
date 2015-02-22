@@ -29,8 +29,9 @@ the **storage( )** method defined as a code fragment in this chapter.
 **Exercise 7: (1)** Turn the **Incrementable** code fragments into a working program.
 **Answer: [IncrementableTest.java](src/IncrementableTest.java)**
 
-Exercise 8: (3) Write a program that demonstrates that, no matter how many objects you create of a particular class,
-there is only one instance of a particular static field in that class.
+**Exercise 8: (3)** Write a program that demonstrates that, no matter how many objects you create of a particular class,
+there is only one instance of a particular **static** field in that class.
+**Answer: [StaticFieldTest.java](src/StaticFieldTest.java)**
 
 Exercise 9: (2) Write a program that demonstrates that autoboxing works for all the primitive types and their wrappers.
 
