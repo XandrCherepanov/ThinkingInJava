@@ -42,18 +42,26 @@ To do this, you’ll need to index into the command-line array of **String**s.
 **Answer: [CommandLineArgs.java](src/CommandLineArgs.java)**
 
 **Exercise 11: (1)** Turn the **AllTheColorsOfTheRainbow** example into a program that compiles and runs.
+**Answer: [AllTheColorsOfTheRainbowTest.java](src/AllTheColorsOfTheRainbowTest.java)**
 
-Exercise 12: (2) Find the code for the second version of HelloDate.java,
+**Exercise 12: (2)** Find the code for the second version of **HelloDate.java**,
 which is the simple comment documentation example.
-Execute Javadoc on the file and view the results with your Web browser.
+Execute **Javadoc** on the file and view the results with your Web browser.
+**Answer: [HelloDate.java](src/HelloDate.java)**
 
-Exercise 13: (1) Run Documentation1.java, Documentation2.java, and Documentation3.java through Javadoc.
+**Exercise 13: (1)** Run **Documentation1.java**, **Documentation2.java**,
+and **Documentation3.java** through **Javadoc**.
 Verify the resulting documentation with your Web browser.
+**Answer: [Documentation1.java](src/Documentation1.java),
+[Documentation2.java](src/Documentation2.java),
+[Documentation3.java](src/Documentation3.java)**
 
-Exercise 14: (1) Add an HTML list of items to the documentation in the previous exercise.
+**Exercise 14: (1)** Add an HTML list of items to the documentation in the previous exercise.
+**Answer: [Documentation2.java](src/Documentation2.java)**
 
-Exercise 15: (1) Take the program in Exercise 2 and add comment documentation to it.
-Extract this comment documentation into an HTML file using Javadoc and view it with your Web browser.
+**Exercise 15: (1)** Take the program in Exercise 2 and add comment documentation to it.
+Extract this comment documentation into an HTML file using **Javadoc** and view it with your Web browser.
+**Answer: [HelloWorldDocs.java](src/HelloWorldDocs.java)**
 
 Exercise 16: (1) In the Initialization & Cleanup chapter, locate the Overloading.java example
 and add Javadoc documentation. Extract this comment documentation into an HTML file using Javadoc
