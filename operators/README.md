@@ -9,3 +9,7 @@
 **Exercise 3: (1)** Create a class containing a **float**
 and use it to demonstrate aliasing during method calls.
 **Answer: [AliasingMethod.java](src/AliasingMethod.java)**
+
+**Exercise 4:** (2) Write a program that calculates velocity
+using a constant distance and a constant time.
+**Answer: [Velocity.java](src/Velocity.java)**
