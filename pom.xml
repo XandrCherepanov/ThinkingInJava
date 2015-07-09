@@ -30,6 +30,7 @@
         <module>vendor</module>
         <module>object</module>
         <module>operators</module>
+        <module>innerclasses</module>
     </modules>
 
     <build>

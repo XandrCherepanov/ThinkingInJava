@@ -2,3 +2,4 @@
 
 1. [Everything is an Object](object)
 2. [Operators](operators)
+9. [Inner Classes](innerclasses)
