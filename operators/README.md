@@ -24,4 +24,5 @@ and assign it to spot’s object. Test for comparison
 using **==** and **equals( )** for all references.
 **Answer: [Dog.java](src/main/java/Dog.java), [DogsComparison.java](src/main/java/DogsComparison.java)**
 
-Exercise 7: (3) Write a program that simulates coin-flipping.
+**Exercise 7: (3)** Write a program that simulates coin-flipping.
+**Answer: [CoinFlipping.java](src/main/java/CoinFlipping.java)**
