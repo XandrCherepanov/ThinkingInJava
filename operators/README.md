@@ -26,3 +26,7 @@ using **==** and **equals( )** for all references.
 
 **Exercise 7: (3)** Write a program that simulates coin-flipping.
 **Answer: [CoinFlipping.java](src/main/java/CoinFlipping.java)**
+
+**Exercise 8: (2)** Show that hex and octal notations work with long values.
+Use **Long.toBinaryString()** to display the results.
+**Answer: [LongNotations.java](src/main/java/LongNotations.java)**
