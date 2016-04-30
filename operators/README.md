@@ -30,3 +30,7 @@ using **==** and **equals( )** for all references.
 **Exercise 8: (2)** Show that hex and octal notations work with long values.
 Use **Long.toBinaryString()** to display the results.
 **Answer: [LongNotations.java](src/main/java/LongNotations.java)**
+
+**Exercise 9: (1)** Display the largest and smallest numbers for both **float** and
+**double** exponential notation.
+**Answer: [ExponentialNotation.java](src/main/java/ExponentialNotation.java)**
