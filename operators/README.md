@@ -42,3 +42,20 @@ digit, and the second, also alternating, with a one in the least-significant dig
 Take these two values and combine them in all possible ways using 
 the bitwise operators, and display the results using **Integer.toBinaryString()**.
 **Answer: [BitwiseOperators.java](src/main/java/BitwiseOperators.java)**
+
+**Exercise 11: (3)** Start with a number that has a binary one in the 
+most significant position (hint: Use a hexadecimal constant). Using 
+the signed right-shift operator, right shift it all the way through 
+all of its binary positions, each time displaying the result using 
+**Integer.toBinaryString()**.
+**Answer: [RightShift.java](src/main/java/RightShift.java)**
+
+**Exercise 12: (3)** Start with a number that is all binary ones. 
+Left shift it, then use the unsigned right-shift operator to right 
+shift through all of its binary positions, each time displaying the 
+result using **Integer.toBinaryString()**.
+**Answer: [UnsignedRightShift.java](src/main/java/UnsignedRightShift.java)**
+
+**Exercise 13: (1)** Write a method that displays **char** values 
+in binary form. Demonstrate it using several different characters.
+**Answer: [CharBinary.java](src/main/java/CharBinary.java)**
