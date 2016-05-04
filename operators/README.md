@@ -59,3 +59,9 @@ result using **Integer.toBinaryString()**.
 **Exercise 13: (1)** Write a method that displays **char** values 
 in binary form. Demonstrate it using several different characters.
 **Answer: [CharBinary.java](src/main/java/CharBinary.java)**
+
+**Exercise 14: (3)** Write a method that takes two **String** arguments 
+and uses all the **boolean** comparisons to compare the two **String**s 
+and print the results. For the == and !=, also perform the **equals()** test.
+In **main()**, call your method with some different **String** objects.
+**Answer: [StringComparison.java](src/main/java/StringComparison.java)**
