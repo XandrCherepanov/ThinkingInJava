@@ -17,6 +17,7 @@ it from the keyboard (typically by pressing Control-C).
 and the modulus operator (**%**) to detect and print prime numbers 
 (integral numbers that are not evenly divisible by any other numbers 
 except for themselves and 1).
+**Answer: [PrimeNumbers.java](src/main/java/PrimeNumbers.java)**
 
 **Exercise 5: (4)** Repeat Exercise 10 from the previous chapter, 
 using the ternary operator and a bitwise test to display the ones 
