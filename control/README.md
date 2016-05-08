@@ -22,3 +22,4 @@ except for themselves and 1).
 **Exercise 5: (4)** Repeat Exercise 10 from the previous chapter, 
 using the ternary operator and a bitwise test to display the ones 
 and zeroes, instead of **Integer.toBinaryString()**.
+**Answer: [BitwiseOperators.java](src/main/java/BitwiseOperators.java)**
