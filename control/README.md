@@ -11,6 +11,7 @@ less than, or equal to a second randomly generated value.
 **Exercise 3: (1)** Modify Exercise 2 so that your code is surrounded 
 by an “infinite” **while** loop. It will then run until you interrupt 
 it from the keyboard (typically by pressing Control-C).
+**Answer: [InfiniteWhile.java](src/main/java/InfiniteWhile.java)**
 
 **Exercise 4: (3)** Write a program that uses two nested **for** loops 
 and the modulus operator (**%**) to detect and print prime numbers 
