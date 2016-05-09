@@ -33,3 +33,28 @@ between (and including) **begin** and **end**.
 **Exercise 7: (1)** Modify Exercise 1 so that the program exits 
 by using the **break** keyword at value 99. Try using **return** instead.
 **Answer: [OneHundred1.java](src/main/java/OneHundred1.java)**
+
+**Exercise 8: (2)** Create a **switch** statement that prints a message 
+for each **case**, and put the **switch** inside a **for** loop that 
+tries each **case**. Put a **break** after each **case** and test it, 
+then remove the **break**s and see what happens.
+**Answer: [SwitchTest.java](src/main/java/SwitchTest.java)**
+
+**Exercise 9: (4)** A _Fibonacci_ sequence is the sequence of numbers 
+1, 1, 2, 3, 5, 8, 13, 21, 34, and so on, where each number (from 
+the third on) is the sum of the previous two. Create a method that 
+takes an integer as an argument and displays that many Fibonacci numbers 
+starting from the beginning, e.g., If you run **java Fibonacci 5** 
+(where **Fibonacci** is the name of the class) the output will be: 1, 1, 2, 3, 5.
+
+**Exercise 10: (5)** A _vampire_ number has an even number of digits 
+and is formed by multiplying a pair of numbers containing half the number 
+of digits of the result. The digits are taken from the original number 
+in any order. Pairs of trailing zeroes are not allowed. Examples include:
+
+1260 = 21 * 60
+1827 = 21 * 87
+2187 = 27 * 81
+
+Write a program that finds all the 4-digit vampire numbers.
+
