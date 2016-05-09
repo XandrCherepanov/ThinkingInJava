@@ -23,3 +23,9 @@ except for themselves and 1).
 using the ternary operator and a bitwise test to display the ones 
 and zeroes, instead of **Integer.toBinaryString()**.
 **Answer: [BitwiseOperators.java](src/main/java/BitwiseOperators.java)**
+
+**Exercise 6: (2)** Modify the two **test()** methods in the previous
+two programs so that they take two extra arguments, **begin** and **end**,
+and so that **testval** is tested to see if it is within the range 
+between (and including) **begin** and **end**.
+**Answer: [IfElse.java](src/main/java/IfElse.java)**
