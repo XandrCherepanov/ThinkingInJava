@@ -29,3 +29,7 @@ two programs so that they take two extra arguments, **begin** and **end**,
 and so that **testval** is tested to see if it is within the range 
 between (and including) **begin** and **end**.
 **Answer: [IfElse.java](src/main/java/IfElse.java)**
+
+**Exercise 7: (1)** Modify Exercise 1 so that the program exits 
+by using the **break** keyword at value 99. Try using **return** instead.
+**Answer: [OneHundred1.java](src/main/java/OneHundred1.java)**
