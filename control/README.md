@@ -46,6 +46,7 @@ the third on) is the sum of the previous two. Create a method that
 takes an integer as an argument and displays that many Fibonacci numbers 
 starting from the beginning, e.g., If you run **java Fibonacci 5** 
 (where **Fibonacci** is the name of the class) the output will be: 1, 1, 2, 3, 5.
+**Answer: [Fibonacci.java](src/main/java/Fibonacci.java)**
 
 **Exercise 10: (5)** A _vampire_ number has an even number of digits 
 and is formed by multiplying a pair of numbers containing half the number 
