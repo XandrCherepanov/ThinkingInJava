@@ -1,5 +1,5 @@
 /**
- * Exercise 9: (4) A _Fibonacci_ sequence is the sequence of numbers
+ * Exercise 9: (4) A Fibonacci sequence is the sequence of numbers
  * 1, 1, 2, 3, 5, 8, 13, 21, 34, and so on, where each number (from
  * the third on) is the sum of the previous two. Create a method that
  * takes an integer as an argument and displays that many Fibonacci numbers
