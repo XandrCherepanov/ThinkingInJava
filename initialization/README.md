@@ -39,3 +39,7 @@ call the second method twice: the first time without using **this**,
 and the second time using **this**—just to see it working; 
 you should not use this form in practice.
 **Answer: [Apricot.java](src/main/java/Apricot.java)**
+
+**Exercise 9: (1)** Create a class with two (overloaded) constructors. 
+Using **this**, call the second constructor inside the first one.
+**Answer: [Flower.java](src/main/java/Flower.java)**
