@@ -3,4 +3,5 @@
 1. [Everything is an Object](object)
 2. [Operators](operators)
 3. [Controlling Execution](control)
+4. [Initialization & Cleanup](initialization)
 9. [Inner Classes](innerclasses)

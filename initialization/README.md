@@ -27,7 +27,9 @@ that calls all the different versions.
 **Exercise 6: (1)** Modify the previous exercise so that two of the 
 overloaded methods have two arguments (of two different types), but 
 in reversed order relative to each other. Verify that this works.
+**Answer: [Dog2.java](src/main/java/Dog2.java)**
 
 **Exercise 7: (1)** Create a class without a constructor, and then 
 create an object of that class in **main()** to verify that 
 the default constructor is automatically synthesized.
+**Answer: [DefaultConstructor.java](src/main/java/DefaultConstructor.java)**
