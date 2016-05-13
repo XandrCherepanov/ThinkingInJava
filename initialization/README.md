@@ -43,3 +43,19 @@ you should not use this form in practice.
 **Exercise 9: (1)** Create a class with two (overloaded) constructors. 
 Using **this**, call the second constructor inside the first one.
 **Answer: [Flower.java](src/main/java/Flower.java)**
+
+**Exercise 10: (2)** Create a class with a **finalize()** method 
+that prints a message. In **main()**, create an object of your class. 
+Explain the behavior of your program.
+**Answer: [Finalize.java](src/main/java/Finalize.java)**
+
+**Exercise 11: (4)** Modify the previous exercise so that your **finalize()** 
+will always be called.
+**Answer: [Finalize2.java](src/main/java/Finalize2.java)**
+
+**Exercise 12: (4)** Create a class called **Tank** that can be filled 
+and emptied, and has a _termination condition_ that it must be empty 
+when the object is cleaned up. Write a **finalize()** that verifies 
+this termination condition. In **main()**, test the possible scenarios 
+that can occur when your **Tank** is used.
+**Answer: [TerminationCondition.java](src/main/java/TerminationCondition.java)**
