@@ -72,3 +72,18 @@ both fields and demonstrates that they are both initialized before they are used
 **Exercise 15: (1)** Create a class with a **String** that is initialized 
 using instance initialization.
 **Answer: [InstanceInit.java](src/main/java/InstanceInit.java)**
+
+**Exercise 16: (1)** Create an array of **String** objects and 
+assign a **String** to each element. Print the array by using a **for** loop.
+**Answer: [StringArray.java](src/main/java/StringArray.java)**
+
+**Exercise 17: (2)** Create a class with a constructor that takes a 
+**String** argument. During construction, print the argument. 
+Create an array of object references to this class, but don’t actually 
+create objects to assign into the array. When you run the program, notice 
+whether the initialization messages from the constructor calls are printed.
+**Answer: [ArrayInitialization.java](src/main/java/ArrayInitialization.java)**
+
+**Exercise 18: (1)** Complete the previous exercise by creating objects 
+to attach to the array of references.
+**Answer: [ArrayInitialization2.java](src/main/java/ArrayInitialization2.java)**
