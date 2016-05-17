@@ -68,3 +68,7 @@ that is initialized at the point of definition, and another one that
 is initialized by the **static** block. Add a **static** method that prints 
 both fields and demonstrates that they are both initialized before they are used.
 **Answer: [StaticInit.java](src/main/java/StaticInit.java)**
+
+**Exercise 15: (1)** Create a class with a **String** that is initialized 
+using instance initialization.
+**Answer: [InstanceInit.java](src/main/java/InstanceInit.java)**
