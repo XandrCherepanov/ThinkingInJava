@@ -87,3 +87,13 @@ whether the initialization messages from the constructor calls are printed.
 **Exercise 18: (1)** Complete the previous exercise by creating objects 
 to attach to the array of references.
 **Answer: [ArrayInitialization2.java](src/main/java/ArrayInitialization2.java)**
+
+**Exercise 19: (2)** Write a method that takes a vararg **String** array. 
+Verify that you can pass either a comma-separated list of **String**s or 
+a **String[]** into this method.
+**Answer: [StringVarargs.java](src/main/java/StringVarargs.java)**
+
+**Exercise 20: (1)** Create a **main()** that uses varargs instead of 
+the ordinary **main()** syntax. Print all the elements in the resulting 
+**args** array. Test it with various numbers of command-line arguments.
+**Answer: [MainVarargs.java](src/main/java/MainVarargs.java)**
