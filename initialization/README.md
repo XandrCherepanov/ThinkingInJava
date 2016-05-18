@@ -97,3 +97,13 @@ a **String[]** into this method.
 the ordinary **main()** syntax. Print all the elements in the resulting 
 **args** array. Test it with various numbers of command-line arguments.
 **Answer: [MainVarargs.java](src/main/java/MainVarargs.java)**
+
+**Exercise 21: (1)** Create an **enum** of the least-valuable six types 
+of paper currency. Loop through the **values()** and print each value 
+and its **ordinal()**.
+**Answer: [Currency.java](src/main/java/Currency.java)**
+
+**Exercise 22: (2)** Write a **switch** statement for the **enum** in 
+the previous example. For each **case**, output a description of that 
+particular currency.
+**Answer: [EnumSwitch.java](src/main/java/EnumSwitch.java)**
