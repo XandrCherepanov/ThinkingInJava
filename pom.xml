@@ -33,6 +33,7 @@
         <module>innerclasses</module>
         <module>control</module>
         <module>initialization</module>
+        <module>access</module>
     </modules>
 
     <build>

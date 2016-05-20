@@ -4,4 +4,5 @@
 2. [Operators](operators)
 3. [Controlling Execution](control)
 4. [Initialization & Cleanup](initialization)
+4. [Access Control](access)
 9. [Inner Classes](innerclasses)
