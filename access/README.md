@@ -30,7 +30,10 @@ and package-access fields and method members. Create an object of this
 class and see what kind of compiler messages you get when you try to 
 access all the class members. Be aware that classes in the same directory 
 are part of the “default” package.
+**Answer: [AccessMembers.java](src/main/java/AccessMembers.java), 
+[AccessMembersTest.java](src/main/java/AccessMembersTest.java)**
 
 **Exercise 6: (1)** Create a class with **protected** data. Create a second 
 class in the same file with a method that manipulates the **protected** 
 data in the first class.
+**Answer: [ProtectedDataTest.java](src/main/java/ProtectedDataTest.java)**
