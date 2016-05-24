@@ -37,3 +37,27 @@ are part of the “default” package.
 class in the same file with a method that manipulates the **protected** 
 data in the first class.
 **Answer: [ProtectedDataTest.java](src/main/java/ProtectedDataTest.java)**
+
+**Exercise 7: (1)** Create the library according to the code fragments 
+describing **access** and **Widget**. Create a **Widget** in a class 
+that is not part of the **access** package.
+**Answer: [WidgetTest.java](src/main/java/WidgetTest.java), 
+[access/Widget.java](src/main/java/access/Widget.java)**
+
+**Exercise 8: (4)** Following the form of the example **Lunch.java**, 
+create a class called **ConnectionManager** that manages a fixed array 
+of **Connection** objects. The client programmer must not be able to 
+explicitly create **Connection** objects, but can only get them via a 
+**static** method in **ConnectionManager**. When the **ConnectionManager** 
+runs out of objects, it returns a **null** reference. 
+Test the classes in **main()**.
+**Answer: [access/Connection.java](src/main/java/access/Connection.java), 
+[access/ConnectionManager.java](src/main/java/access/ConnectionManager.java),
+[ConnectionsTest.java](src/main/java/ConnectionsTest.java)**
+
+**Exercise 9: (2)** Create two files in the **access/local** 
+directory (presumably in your CLASSPATH) and in a directory other 
+than **access/local**. Explain why the compiler generates an error. 
+Would making the **Foreign** class part of the **access.local** package change anything?
+**Answer: [access/local/PackagedClass.java](src/main/java/access/local/PackagedClass.java), 
+[access/foreign/Foreign.java](src/main/java/access/foreign/Foreign.java)**
