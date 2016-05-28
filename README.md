@@ -5,4 +5,5 @@
 3. [Controlling Execution](control)
 4. [Initialization & Cleanup](initialization)
 5. [Access Control](access)
+6. [Reusing Classes](reusing)
 9. [Inner Classes](innerclasses)
